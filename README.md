@@ -1,2 +1,2 @@
 # GoRec
-annotate games of go
+Done by the Go club of Grenoble
